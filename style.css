@@ -1,15 +1,15 @@
-h1{
+#Odin-title{
     text-align: center;
     font-family: monospace, sans-serif;
     margin-bottom: 200px;
 }
 
-li{
+.links{
     text-align: center;
     font-size: 24px;
     font-family: 'Courier New', Courier, monospace;
     margin-bottom: 20px;
 }
-a{
+.link-color{
     color: rgb(40, 175, 175);
 }
